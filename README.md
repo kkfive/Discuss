@@ -3,9 +3,11 @@
 
 使用Vercel部署你的`Discuss`项目
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/lete114/discuss/tree/vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lete114/discuss/tree/vercel)
 
 ### 从终端部署
+
+> 注意：终端部署仅对于有开发经验用户使用，一般用户使用上方按钮部署即可
 
 你可以使用 [Vercel CLI](https://vercel.com/download) 命令行工具进行部署
 
